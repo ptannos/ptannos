@@ -11,7 +11,7 @@ Ask me about anything. I am happy to chat, make new friends, and learn together.
 
 ### Projects
 
-FoodDeeds: The App that Fights Food Insecurity
-Plate Hopper: An E-Commerce Site That Sells Meal Kits Inspired by Recipes from Around the World
+FoodDeeds: The App that Fights Food Insecurity <br/>
+Plate Hopper: An E-Commerce Site That Sells Meal Kits Inspired by Recipes from Around the World<br/>
 Flashcart: A Tool for Studying Art History 
 
