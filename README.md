@@ -1,4 +1,4 @@
-### Hi There, I'm Pauline Tannos (she/her/hers)! Glad to see you here. 
+### Hi there, I'm Pauline (she/her/hers)! Glad to see you here. 
 
 😄
 I am currently looking for a full-time opportunity as either a front-end engineer or a full-stack engineer. I specialize in building full-stack applications using JavaScript (Node.js, Express, React/Redux, Sequelize, among a few others). I also know Firebase, and am currently learning Apollo GraphQL, PWAs, and TypeScript.
