@@ -9,6 +9,9 @@ pauline.tannos@gmail.com  |  (718) 288 0382  |  <a href="https://www.linkedin.co
 💬 
 Ask me about anything. I am happy to chat, make new friends, and learn together. 
 
-⚡ 
-Fun fact: My favorite animal is the octopus. They have three hearts, blue blood, and some serious problem-solving skills! My favorite animal that I can keep in my house is my Shiba Inu, Michi.
+### Projects
+
+FoodDeeds: The App that Fights Food Insecurity
+Plate Hopper: An E-Commerce Site That Sells Meal Kits Inspired by Recipes from Around the World
+Flashcart: A Tool for Studying Art History 
 
