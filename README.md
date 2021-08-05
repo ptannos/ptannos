@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi There, I'm Pauline Tannos (she/her/hers)! Glad to see you here. 
 
-<!--
-**ptannos/ptannos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄
+I am currently looking for a full-time opportunity as either a front-end engineer or a full-stack engineer. I specialize in building full-stack applications using JavaScript (Node.js, Express, React/Redux, Sequelize, among a few others). I also know Firebase, and am currently learning Apollo GraphQL, PWAs, and TypeScript.
 
-Here are some ideas to get you started:
+📫 
+pauline.tannos@gmail.com  |  (718) 288 0382  |  <a href="https://www.linkedin.com/in/pauline-tannos/">LinkedIn</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 
+Ask me about anything. I am happy to chat, make new friends, and learn together. 
+
+⚡ 
+Fun fact: My favorite animal is the octopus. They have three hearts, blue blood, and some serious problem-solving skills! My favorite animal that I can keep in my house is my Shiba Inu, Michi.
+
