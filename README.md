@@ -19,14 +19,4 @@ I graduated from The Grace Hopper Program at Fullstack Academy in July 2021, and
 <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' />
 <img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white' />
 
-<hr /> 
-
-### Projects
-
-<a href="https://capstone-fooddeeds.web.app/">FoodDeeds</a>: The App that Fights Food Insecurity <br/>
-<a href="http://plate-hopper.herokuapp.com/">Plate Hopper</a>: An E-Commerce Site That Sells Meal Kits Inspired by Recipes from Around the World<br/>
-<a href="https://github.com/ptannos/flashcart">Flashcart</a>: A Tool for Studying Art History 
-
-<img src="https://github-readme-stats.vercel.app/api?username=ptannos" />
-
 
